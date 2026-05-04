@@ -1,0 +1,89 @@
+{
+  "generated_utc": "2026-05-04T06:48:24+00:00",
+  "prices_generated_utc": "seed",
+  "fx_source": "fallback",
+  "fx_rates_usd_base": {
+    "MYR": 4.43,
+    "INR": 84.2,
+    "JPY": 152.5,
+    "CNY": 7.18,
+    "THB": 35.1,
+    "IDR": 16250.0,
+    "VND": 25400.0
+  },
+  "series_status": {
+    "RSS3_SGP": {
+      "status": "SEED",
+      "source": "RTAS Singapore (SGX SICOM settlement)",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "TSR20_SGP": {
+      "status": "SEED",
+      "source": "RTAS Singapore (SGX SICOM settlement)",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "SMR20_MYS": {
+      "status": "SEED",
+      "source": "ANRPC daily price + MRB Daily5 fallback",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "STR20_THA": {
+      "status": "SEED",
+      "source": "ANRPC daily price",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "SIR20_IDN": {
+      "status": "SEED",
+      "source": "ANRPC daily price",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "SVR3L_VNM": {
+      "status": "SEED",
+      "source": "ANRPC daily price",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "SVR10_VNM": {
+      "status": "SEED",
+      "source": "ANRPC daily price",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "RU_SHFE_CNY": {
+      "status": "SEED",
+      "source": "SHFE daily statistics",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "TOCOM_RSS3": {
+      "status": "SEED",
+      "source": null,
+      "reason": "OSE/JPX rubber settlements not on public free feed; kept synthetic until paid feed is wired in.",
+      "last_real_print": null
+    },
+    "LATEX_60_MYS": {
+      "status": "SEED",
+      "source": "ANRPC daily + MRB Daily5 fallback",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "LATEX_60_THA": {
+      "status": "SEED",
+      "source": "ANRPC daily price",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    },
+    "RSS4_KOTTAYAM_INR": {
+      "status": "SEED",
+      "source": "Rubber Board of India",
+      "reason": "no live print this run; using prior value",
+      "last_real_print": null
+    }
+  },
+  "source_errors": {}
+}
