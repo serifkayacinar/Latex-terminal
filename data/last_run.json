@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-05-04T07:27:55+00:00",
-  "prices_generated_utc": "2026-05-04T07:27:55+00:00",
+  "generated_utc": "2026-05-04T07:30:07+00:00",
+  "prices_generated_utc": "2026-05-04T07:30:07+00:00",
   "fx_source": "fallback",
   "fx_rates_usd_base": {
     "MYR": 4.43,
@@ -13,13 +13,13 @@
   },
   "series_status": {
     "RSS3_SGP": {
-      "status": "SEED",
+      "status": "STALE",
       "source": "RTAS Singapore (SGX SICOM settlement)",
       "reason": "no live print this run; using prior value",
       "last_real_print": null
     },
     "TSR20_SGP": {
-      "status": "SEED",
+      "status": "STALE",
       "source": "RTAS Singapore (SGX SICOM settlement)",
       "reason": "no live print this run; using prior value",
       "last_real_print": null
@@ -31,31 +31,31 @@
       "last_real_print": "2026-05-04"
     },
     "STR20_THA": {
-      "status": "SEED",
+      "status": "STALE",
       "source": "ANRPC daily price",
       "reason": "no live print this run; using prior value",
       "last_real_print": null
     },
     "SIR20_IDN": {
-      "status": "SEED",
+      "status": "STALE",
       "source": "ANRPC daily price",
       "reason": "no live print this run; using prior value",
       "last_real_print": null
     },
     "SVR3L_VNM": {
-      "status": "SEED",
+      "status": "STALE",
       "source": "ANRPC daily price",
       "reason": "no live print this run; using prior value",
       "last_real_print": null
     },
     "SVR10_VNM": {
-      "status": "SEED",
+      "status": "STALE",
       "source": "ANRPC daily price",
       "reason": "no live print this run; using prior value",
       "last_real_print": null
     },
     "RU_SHFE_CNY": {
-      "status": "SEED",
+      "status": "STALE",
       "source": "SHFE daily statistics",
       "reason": "no live print this run; using prior value",
       "last_real_print": null
@@ -73,7 +73,7 @@
       "last_real_print": "2026-05-04"
     },
     "LATEX_60_THA": {
-      "status": "SEED",
+      "status": "STALE",
       "source": "ANRPC daily price",
       "reason": "no live print this run; using prior value",
       "last_real_print": null
