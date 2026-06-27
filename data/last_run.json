@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-06-27T04:29:04+00:00",
-  "prices_generated_utc": "2026-06-27T04:29:04+00:00",
+  "generated_utc": "2026-06-27T09:07:36+00:00",
+  "prices_generated_utc": "2026-06-27T09:07:36+00:00",
   "fx_source": "fallback",
   "fx_rates_usd_base": {
     "MYR": 3.88,
@@ -82,7 +82,7 @@
       "status": "LIVE",
       "source": "Rubber Board of India",
       "via": "RubberBoardIndia_v2",
-      "last_real_print": "2026-06-25"
+      "last_real_print": "2026-06-27"
     }
   },
   "source_errors": {}
